@@ -1,0 +1,104 @@
+{
+	"courses": [
+	  {
+		 "id": 1,
+		 "title": " ",
+		 "slug": "introduction-to-psychology",
+		 "description": "Dive into the basics of psychology, exploring the human mind and behavior.",
+		 "price": 999.99,
+		 "instructor": "Dr. John Doe, Ph.D.",
+		 "isFeatured": true,
+		 "image": "/courses/psychology.jpg" 
+	  },
+	  {
+		 "id": 2,
+		 "title": "Cognitive Psychology",
+		 "slug": "cognitive-psychology",
+		 "description": "Explore the mental processes behind learning, memory, perception, and other cognitive functions.",
+		 "price": 1009.99,
+		 "instructor": "Prof. Jane Smith, M.Sc.",
+		 "isFeatured": false,
+		 "image": "/courses/cognitive.jpg" 
+	  },
+	  {
+		 "id": 3,
+		 "title": "Developmental Psychology",
+		 "slug": "developmental-psychology",
+		 "description": "Understand how people grow and change from infancy through old age.",
+		 "price": 1109.99,
+		 "instructor": "Dr. Emily Johnson, Psy.D.",
+		 "isFeatured": true,
+		 "image": "/courses/developmental.jpg" 
+	  },
+	  {
+		 "id": 4,
+		 "title": "Social Psychology",
+		 "slug": "social-psychology",
+		 "description": "Learn about how individuals influence and are influenced by other people.",
+		 "price": 120.99,
+		 "instructor": "Michael Brown, M.A.",
+		 "isFeatured": false,
+		 "image": "/courses/social.jpg"
+	  },
+	  {
+		 "id": 5,
+		 "title": "Abnormal Psychology",
+		 "slug": "abnormal-psychology",
+		 "description": "Study the nature of psychological disorders and their treatments.",
+		 "price": 109.99,
+		 "instructor": "Christopher Davis, Ph.D.",
+		 "isFeatured": false,
+		 "image": "/courses/abnormal.jpg"
+	  },
+	  {
+		 "id": 6,
+		 "title": "Psychology of Learning",
+		 "slug": "psychology-of-learning",
+		 "description": "Examine the theories and processes underlying learning behaviors.",
+		 "price": 149.99,
+		 "instructor": "Alex Wilson, M.Ed.",
+		 "isFeatured": true,
+		 "image": "/courses/learning.jpg"
+	  },
+	  {
+		 "id": 7,
+		 "title": "Personality Psychology",
+		 "slug": "personality-psychology",
+		 "description": "Explore the patterns of thoughts, feelings, and behavior that make a person unique.",
+		 "price": 159.99,
+		 "instructor": "Samantha Miller, Psy.D.",
+		 "isFeatured": false,
+		 "image": "/courses/personality.jpg"
+	  },
+	  {
+		 "id": 8,
+		 "title": "Clinical Psychology",
+		 "slug": "clinical-psychology",
+		 "description": "Understand the assessment and treatment of mental illness and psychological problems.",
+		 "price": 169.99,
+		 "instructor": "Dr. Luke Harris, Ph.D.",
+		 "isFeatured": true,
+		 "image": "/courses/clinical.jpg"
+	  },
+	  {
+		 "id": 9,
+		 "title": "Neuropsychology",
+		 "slug": "neuropsychology",
+		 "description": "Discover the structure and function of the brain as it relates to specific psychological processes and behaviors.",
+		 "price": 179.99,
+		 "instructor": "Grace Lee, M.Sc., Ph.D.",
+		 "isFeatured": false,
+		 "image": "/courses/neuro.jpg"
+	  },
+	  {
+		 "id": 10,
+		 "title": "Forensic Psychology",
+		 "slug": "forensic-psychology",
+		 "description": "Learn about the application of psychological knowledge to legal issues and court cases.",
+		 "price": 189.99,
+		 "instructor": "Ethan Moore, Psy.D., J.D.",
+		 "isFeatured": true,
+		 "image": "/courses/forensic.jpg"
+	  }
+	]
+}
