@@ -2,7 +2,7 @@
 	"courses": [
 	  {
 		 "id": 1,
-		 "title": " ",
+		 "title": "Basic of Psycholgoy",
 		 "slug": "introduction-to-psychology",
 		 "description": "Dive into the basics of psychology, exploring the human mind and behavior.",
 		 "price": 999.99,
