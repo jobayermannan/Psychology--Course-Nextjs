@@ -1,5 +1,6 @@
 import FeaturedSection from "@/components/FeaturedSection";
 import HeroSection from "@/components/HeroSection";
+import { Instructor } from "@/components/Instructors";
 import PsychologicalTestimonials from "@/components/PsychologicalTestimonials";
 import UpComingWebinars from "@/components/UpComingWebiners";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -15,6 +16,7 @@ export default function Page() {
          <WhyChooseUs/>
          <PsychologicalTestimonials/>
          <UpComingWebinars/>
+         <Instructor></Instructor>
         </main>
   );
 }
