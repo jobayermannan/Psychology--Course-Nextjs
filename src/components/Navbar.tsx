@@ -19,14 +19,14 @@ const Navbar = ({ className }: { className?: string }) => {
 		 <Menu  setActive={setActive}>
             <Link href={"#"}>
 				      <MenuItem item="Home" setActive={setActive} active={active} >
-						    test
+						   
 						</MenuItem>
 				</Link>
 
 
 				<MenuItem item="Our Courses" setActive={setActive} active={active} >
 						  <div  className="flex flex-col space-y-4 text-sm">
-						  <HoveredLink href={"/courses"}>	Introduction to Psychology</HoveredLink>
+						  <HoveredLink href={"/courses"}>	All courses</HoveredLink>
 						  <HoveredLink href={"/courses"}>	Cognitive Psychology</HoveredLink>
 						  <HoveredLink href={"/courses"}>	Developmental Psychology</HoveredLink>
 						  <HoveredLink href={"/courses"}>	Social Psychology</HoveredLink>
@@ -34,7 +34,7 @@ const Navbar = ({ className }: { className?: string }) => {
 						  </div>
 				</MenuItem>
 
-				<Link href={"/contacts"}>
+				<Link href={"/contact"}>
 
 					<MenuItem  item="Contact Us" setActive={setActive} active={active} >
 

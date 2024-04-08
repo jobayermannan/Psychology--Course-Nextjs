@@ -1,4 +1,5 @@
 import FeaturedSection from "@/components/FeaturedSection";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import { Instructor } from "@/components/Instructors";
 import PsychologicalTestimonials from "@/components/PsychologicalTestimonials";
@@ -17,6 +18,7 @@ export default function Page() {
          <PsychologicalTestimonials/>
          <UpComingWebinars/>
          <Instructor></Instructor>
+         <Footer></Footer>
         </main>
   );
 }
