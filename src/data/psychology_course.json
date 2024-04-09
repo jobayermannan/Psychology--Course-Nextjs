@@ -8,7 +8,7 @@
 		 "price": 999.99,
 		 "instructor": "Dr. John Doe, Ph.D.",
 		 "isFeatured": true,
-		 "image": "/courses/psychology.jpg" 
+		 "image": "https://ibb.co/9t7VFrt" 
 	  },
 	  {
 		 "id": 2,
